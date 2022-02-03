@@ -1,0 +1,21 @@
+.button-size{
+  width: 20%;
+}
+.page-essentials{
+  padding: 10px;
+  margin: auto;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.padding-tood{
+  padding-right: 30px;
+}
+.title{
+  margin-bottom: 20px;
+}
